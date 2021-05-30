@@ -11,3 +11,5 @@ Java 1.8
 2. Wait for Maven to do the imports
 3. Start the application
 4. Test the application: http://localhost:8080/sbs/welcome.do
+
+Created by [https://github.com/GeorgeBarbosa]
